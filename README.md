@@ -10,7 +10,7 @@ It works by returning a function with each call and doing something intelligent 
 
 ### license
 
-hexlib is released under [The MIT License](http://www.opensource.org/licenses/mit-license.php).
+( cascade ) is released under [The MIT License](http://www.opensource.org/licenses/mit-license.php).
 
 ## usage
 
